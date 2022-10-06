@@ -4,7 +4,7 @@
   "description": "The tourism website for the Czech region of Královec (formerly Kaliningrad)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app"
   },
   "repository": {
     "type": "git",
