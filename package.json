@@ -1,0 +1,23 @@
+{
+  "name": "kralovec-sk",
+  "version": "1.0.0",
+  "description": "The tourism website for the Czech region of Královec (formerly Kaliningrad)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michalstanko/kralovec-sk.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michalstanko/kralovec-sk/issues"
+  },
+  "homepage": "https://github.com/michalstanko/kralovec-sk#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
